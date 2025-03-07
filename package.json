@@ -1,0 +1,27 @@
+{
+  "name": "day3-training-arc-18124014",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrellhl082/Day3-Training-ARC-18124014.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrellhl082/Day3-Training-ARC-18124014/issues"
+  },
+  "homepage": "https://github.com/darrellhl082/Day3-Training-ARC-18124014#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
